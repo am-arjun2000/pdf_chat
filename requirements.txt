@@ -1,0 +1,5 @@
+streamlit
+fitz
+groq
+langchain
+pandas
