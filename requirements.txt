@@ -1,5 +1,6 @@
 streamlit
-pymupdf
+PyMuPDF  # fitz is often part of PyMuPDF
 groq
 langchain
 pandas
+jina
